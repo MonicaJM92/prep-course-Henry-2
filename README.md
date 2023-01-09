@@ -1,2 +1,1 @@
-# prep-course-Henry-2
-Este es un repositorio del módulo 2 de Henry
+ESTE ES UN PROYECTO ES UNA PRUEBA DE CÓMO CREAR UN REPOSITORIO Y CLONAR DESDE GITHUB A MI ESCRITORIO LOCAL
